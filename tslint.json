@@ -1,0 +1,6 @@
+{
+  "extends": "nerv-tslint-rules",
+  "rules": {
+    "no-require-imports": false
+  }
+}

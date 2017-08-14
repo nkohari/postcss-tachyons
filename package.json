@@ -1,0 +1,22 @@
+{
+  "name": "postcss-tachyons",
+  "version": "0.1.0",
+  "description": "adds support to css for a @tachyons at-rule",
+  "engines": {
+    "node": "^6.9.0",
+    "npm": "5"
+  },
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Nate Kohari",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^6.0.9"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.85",
+    "typescript": "^2.4.2"
+  }
+}
